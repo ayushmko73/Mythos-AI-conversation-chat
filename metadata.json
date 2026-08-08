@@ -1,0 +1,6 @@
+{
+  "name": "StoryCompanion AI",
+  "description": "An immersive AI interactive storytelling & companion app with custom personas, credit energy system, contextual memory summarization, and admin management panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
